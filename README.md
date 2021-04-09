@@ -5,3 +5,5 @@
  
  
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCancazedd&show_icons=true&theme=midnight-purple)
+ 
+   ![](https://komarev.com/ghpvc/?username=xCancazedd&color=blueviolet
