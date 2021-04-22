@@ -1,6 +1,4 @@
-                        ### Hi there 👋, I'm Adrian, a 15 yr old student that spends most of his time on discord.
-                        I'm learning js,python, and c#.
-                        I'm hoping to collab on future projects, so feel free to contact me :)
+### Hi there 👋, I'm Adrian, a 15 yr old student that spends most of his time on discord.                                                                                     I'm learning js,python, and c#.                                                                                                                                                I'm hoping to collab on future projects, so feel free to contact me :)
  
  
  
