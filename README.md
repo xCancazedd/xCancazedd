@@ -2,7 +2,8 @@
  
  
  
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCancazedd&show_icons=true&theme=midnight-purple)
+<p align="top"> <img src="https://komarev.com/ghpvc/?username=xCancazedd&label=Profile%20views&color=0e75b6&style=flat" alt="flaringphoenix" /> </p>
+  
  
   
-<p align="top"> <img src="https://komarev.com/ghpvc/?username=xCancazedd&label=Profile%20views&color=0e75b6&style=flat" alt="flaringphoenix" /> </p>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=xCancazedd&show_icons=true&theme=midnight-purple)
